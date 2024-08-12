@@ -23,6 +23,18 @@
         "lng": 13.376933665713324
       },
       "id": "98443197"
+    },
+    {
+      "id": "a2fc",
+      "cityName": "Villalba de los Barros",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2024-08-12T08:45:42.084Z",
+      "notes": "",
+      "position": {
+        "lat": "38.61687046392973",
+        "lng": "-6.5478515625"
+      }
     }
   ]
 }
