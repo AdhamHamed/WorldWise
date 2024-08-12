@@ -10,12 +10,7 @@ import CountryList from "./components/CountryList";
 import City from "./components/City";
 import Form from "./components/Form";
 import SpinnerFullPage from "./components/SpinnerFullPage";
-// import HomePage from "./pages/HomePage";
-// import Product from "./pages/Product";
-// import Pricing from "./pages/Pricing";
-// import AppLayout from "./pages/AppLayout";
-// import Login from "./pages/Login";
-// import PageNotFound from "./pages/PageNotFound";
+
 
 const AppLayout = lazy(() => import("./pages/AppLayout"));
 const HomePage = lazy(() => import("./pages/HomePage"));
