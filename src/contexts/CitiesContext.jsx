@@ -48,7 +48,7 @@ function reducer(state, action) {
 				currentCity: {},
 			};
 		case "rejected":
-			return { ...state, isLoading, error: action.payload };
+			return { ...state, isLoading: false, error: action.payload };
 
 		default:
 			throw new Error("Unknown action type");
